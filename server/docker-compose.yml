@@ -1,0 +1,23 @@
+version: '2'
+
+services:
+
+  postgres:
+    image: postgres
+    volumes:
+      -  postgresql-volume:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_USER=root
+      - POSTGRES_DB=IBCS
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+
+volumes:
+    postgresql-volume:
+      external: true

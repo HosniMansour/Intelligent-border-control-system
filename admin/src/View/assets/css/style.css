@@ -1,0 +1,20 @@
+.sidebar .user .photo{
+    width: 50px !important;
+    height: 50px !important;
+    margin-left: 15px;
+}
+
+.card .form-group > label {
+    text-transform: none !important;
+}
+
+.full-width > audio, canvas, progress, video {
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+}
+
+audio, canvas, progress, video {
+    width: 310px !important;
+    height: 300px !important;;
+}
