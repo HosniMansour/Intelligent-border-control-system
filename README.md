@@ -4,4 +4,8 @@ This project is about setting up an intelligent border control system based on m
 
 To make this project we developed separate modules which are face matching, passport data extraction, and traveler abnormal behavior.
 
-[![Demo](https://1.bp.blogspot.com/-6TwZKJJgP5I/XSxbhVQoFLI/AAAAAAAABDk/tPqE7toua80vhalGvN-O5O37QL8etssSACLcBGAs/s1600/IBCS.png)] (https://www.youtube.com/watch?v=RCnL7GqICcI)
+![alt text](https://1.bp.blogspot.com/-6TwZKJJgP5I/XSxbhVQoFLI/AAAAAAAABDk/tPqE7toua80vhalGvN-O5O37QL8etssSACLcBGAs/s1600/IBCS.png)
+
+
+Demo : https://www.youtube.com/watch?v=RCnL7GqICcI
+
