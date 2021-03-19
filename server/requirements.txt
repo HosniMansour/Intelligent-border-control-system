@@ -3,7 +3,7 @@ Django==2.2.8
 django-cors-headers==2.5.2
 django-filter==2.1.0
 django-suit==0.2.26
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.1.3
 docutils==0.14
 Markdown==3.1
